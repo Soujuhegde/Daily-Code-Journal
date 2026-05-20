@@ -1,4 +1,4 @@
-#using functions
+#using function
 # Function definition
 def greet():
 
@@ -6,3 +6,15 @@ def greet():
 
 # Function call
 greet()
+
+
+#Function with Parameters
+
+def add(a, b):
+
+    return a + b
+
+result = add(10, 20)
+
+print(result)
+
